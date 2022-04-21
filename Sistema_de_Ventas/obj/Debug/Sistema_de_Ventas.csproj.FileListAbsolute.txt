@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe.config
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.pdb
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.GenerateResource.cache
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.exe
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.pdb
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Form1.resources
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Registro.resources
+C:\Users\PC\Documents\PRACTICAS\C#\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.PMenu.resources
